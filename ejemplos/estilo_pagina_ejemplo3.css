@@ -1,0 +1,39 @@
+body{
+	background:#CCC;
+}
+
+#wrapper{
+	background:#FFF;
+	width:960px;
+	
+	margin:auto;
+}
+
+#head{
+	background:#1E90FF;
+}
+
+#nav{
+	background:#FFA500;
+}
+
+#main{
+	background:#ADD8E6;
+	
+	width:720px;
+	
+	float:left;
+}
+
+#sidebar{
+	background:#8B6914;
+	width:240px;
+	
+	float:left;
+}
+.clear{
+	clear:both;
+}
+#footer{
+	background:#7F7F7F;
+}

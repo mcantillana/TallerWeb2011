@@ -1,0 +1,22 @@
+
+/* Selector general */
+body{
+	background:#EEE;
+}
+p{
+	color: #FF0000;
+	font-family: Verdana;
+	text-align:justify;
+}
+
+.texto1{
+	color: #6464F1;
+	
+}
+#texto2{
+	background:#CCCCCC;
+}
+
+h1{
+	font-size:100px;
+}
